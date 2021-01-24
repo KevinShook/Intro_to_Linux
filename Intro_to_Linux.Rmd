@@ -68,3 +68,11 @@ unix-like kernel
   - how often the distro is upgraded
   - how software is installed
   - default software
+  
+## Why should I use Linux?
+ - Many different reasons, but most come down to freedom and power
+   - Four freedoms 
+   - Power results from these
+ - Linux was developed by its users, for their benefit
+ - **All** commercial operating systems (Windows, MacOS) were developed by corporations to benefit _them_, not _you_!
+ 
