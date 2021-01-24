@@ -1,0 +1,70 @@
+---
+title: "Introduction to Linux"
+author: "Filip Strnad and Kevin Shook"
+date: "24/01/2021"
+output: 
+    beamer_presentation:
+     theme: "default"
+     colortheme: "whale"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is Linux, and why should I care about it?
+
+ - Linux is a family of Free Open Source Software (FOSS) operating systems
+which is widely used.
+
+ - Linux is particularly well-suited to academics, researchers, and sofware developers
+ 
+ - This presentation will introduce you to Linux, and will show you how you can use it to make your computing more enjoyable and productive
+
+## History - Unix
+
+ - The operating system Unix was developed at Bell Labs in the U.S.A. in the 1970s
+ - Very widely used, but proprietary
+ - Many tools (like the C language) were developed with and for Unix
+
+## History - GNU
+ - The GNU (GNU's not Unix) project was developed in the 1990s to produce a free version of Unix
+ - https://www.gnu.org/
+ - based on 4 freedoms:
+ (0) to run the program, 
+ (1) to study and change the program in source code form, 
+ (2) to redistribute exact copies, and 
+ (3) to distribute modified versions.
+ - GNU produced most of the OS, and the tools including language compilers, but never completed the kernel, which controls the hardware
+
+## History - Linux Torvalds
+ - in 1991 Linus Torvals, a Finnish teenager, started working on Linux, a FOSS 
+unix-like kernel
+ - version 1.0 released in 1994
+ - Linux + GNU provides basis for many operating systems
+ - Linux development is sponsored by the Linux Foundation, a non-profit, which pays Linus to develop Linux
+ - Most of Linux is written by others, including programmers from large companies like IBM, Amazon, Red Hat and Microsoft
+ - Now the largest cooperative project in the world, and the largest codebase in the world.
+ 
+## History - today
+ - Linux is the most widely used operating system kernel in the world
+ - Most servers
+   - Google
+   - Amazon
+   - Microsoft Azure cloud
+ - All supercomputers
+ - Android
+ - Chromebooks
+ - About 2% of desktop/laptops
+ 
+## Distros
+- There are many different Linux distributions ("Distros")
+  - some are for primarily for servers (Red Hat, Debian)
+  - some are for desktops (Ubuntu, Mint)
+  - some are for experts (Arch, Gentoo)
+- All versions can run the same applications
+- Differences are in 
+  - how support is provided 
+  - how often the distro is upgraded
+  - how software is installed
+  - default software
