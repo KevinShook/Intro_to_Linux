@@ -74,5 +74,74 @@ unix-like kernel
    - Four freedoms 
    - Power results from these
  - Linux was developed by its users, for their benefit
- - **All** commercial operating systems (Windows, MacOS) were developed by corporations to benefit _them_, not _you_!
+ - **All** proprietary operating systems (Windows, MacOS) were developed by corporations to benefit _them_!
+ 
+## Linux advantages - setting up
+1. you can download the source for linux	
+   - https://github.com/torvalds/linux	
+   - sources for almost all software on linux also available	
+   - windows: closed source, can't view	
+
+2. you can install updates without rebooting your machine	
+   - true for most software	
+   - true of even the kernel itself on > 4.0	
+   - windows: requires reboot	
+
+3. you can plug devices in without worrying about finding/downloading drivers	
+   - exception: some highly specialized devices	
+   - windows: requires download	
+
+
+## Linux avantages - running Linux
+4. you can run linux from a pen drive, cd, dvd, etc.	
+   - windows: no such option exists	
+
+5. you can run linux for years without rebooting	
+   - ultra stable	
+   - less memory fragmentation	
+   - windows: system becomes slow over time	
+
+6. you can run linux on almost any hardware	
+   - this includes computers/laptops from the 80s and 90s	
+   - windows: minimum requirements often require hardware
+
+7. you can fix broken linux installs with a live cd	
+   - sometimes broken windows can be fixed with a linux live cd	
+   - windows: system repair is only option	
+
+8. you can update all of your software often with a single command	
+   - windows: windows update only updates windows	
+
+9. you can move a hard drive from one linux machine to another	
+   - largely made possible by not needing specific drivers	
+   - windows: system often will not function properly	
+   - windows: moving a hard drive often requires a new license as well	
+
+10. you can customize quite literally anything	
+   - fonts, icons, themes, etc.	
+   - there are even windows and mac themes on linux	
+   - windows: some customization is available, but not near the extent of linux	
+
+11. you can install software without worrying about viruses and malware	
+   - implies also that no anti-virus software is needed	
+   - don't need to download programs from sketchy websites
+   - not dependent on manufacturer's store
+   - software from official repositories will never contain malicious software	
+
+12. Linux is more secure
+   - FOSS is more secure (and has fewer bugs) 
+   - Windows and MacOS security through obscurity is much less secure
+   
+13. Linux is better for programming
+   - built _by_ developers _for_ developers
+   - _all_ languages are built in: C, C++, R, Python, Fortran, Rust, awk etc
+   - editors and IDEs
+   - version control: git
+   
+14. Linux doesn't spy on you
+   - Windows 10 and MacOS report _everything_ you do
+   - MacOS reports your locationa and every program you run
+   https://sneak.berlin/20201112/your-computer-isnt-yours/
+   
+
  

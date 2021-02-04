@@ -1,0 +1,21 @@
+---
+title: "R tips"
+author: "Kevin Shook"
+date: "04/02/2021"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Beware of copying commands
+ - Don't paste online text into your terminal!
+     https://codingcheats.io/copy
+ - *always* paste into a text editor first to be sure
+
+## Beware of dangerous commands
+ - You may see one of these online for lulz  
+ `rm -rf /` - deletes everything in the root directory  
+ `rm -rf .` - deletes everything in the current directory and all subdirectories  
+ `:(){:|:&};:` - fork bomb -calls itself repeatedly until the system freezes  
